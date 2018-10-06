@@ -196,7 +196,9 @@ a:hover {
           "footer footer";
 
     }
-
+header img {
+  display: none;
+}
 
 #tagline {
   padding-right: .5rem;

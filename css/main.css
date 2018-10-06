@@ -196,9 +196,7 @@ a:hover {
 
     }
 
-header {
-  display: block;
-}
+
 
 #tagline {
   padding-right: .5rem;
@@ -264,10 +262,4 @@ footer {
 }
 
 
-  /*#arial{
-    padding-left: 1rem;
-  }*/
-
 }
-
-/* FIX DROP SHADOW AND PADDING AND ADD STUFF left allign typeface*/

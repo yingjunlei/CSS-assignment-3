@@ -197,15 +197,16 @@ a:hover {
     }
 
 header {
-  font-size: 2rem;
+  display: block;
 }
 
 #tagline {
-    font-size: 2rem;
+  padding-right: .5rem;
+  padding-left: .5rem;
+
 }
 
 #arial {
-    font-size: 1.5rem;
     padding-top: 1rem;
     padding-right: .5rem;
     padding-bottom: 1rem;
@@ -215,7 +216,6 @@ header {
 }
 
 #georgia {
-    font-size: 1.5rem;
     padding-top: 1rem;
     padding-right: 1rem;
     padding-bottom: 1rem;
@@ -224,14 +224,12 @@ header {
 }
 
 #pairing {
-    font-size: 2rem;
     padding-right: 1rem;
     padding-bottom: 1rem;
     padding-left: 1rem;
 
 }
 #bobwhite-quail {
-    font-size: 1.5rem;
     padding-top: 1rem;
     padding-right: 1rem;
     padding-bottom: 1rem;
@@ -240,30 +238,25 @@ header {
 
 }
 #readability {
-    font-size: 2rem;
     padding-right: 1rem;
     padding-bottom: 1rem;
     padding-left: 1rem;
 }
 #line-length {
-    font-size: 2rem;
     padding-right: 1rem;
     padding-bottom: 1rem;
     padding-left: 1rem;
 }
 #helvetica {
     margin: 0;
-    font-size: 1.5rem;
 
 }
 #typeface {
-    font-size: 2rem;
     padding-right: 1rem;
     padding-bottom: 1rem;
     padding-left: 1rem;
 }
 footer {
-    font-size: 2rem;
     text-align: left;
     padding-right: 1rem;
     padding-bottom: 1rem;

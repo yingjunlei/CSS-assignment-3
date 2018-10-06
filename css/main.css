@@ -172,6 +172,7 @@ footer {
 /* pseudo classes */
 a {
     color: #7c6a60; /* keep */
+    text-shadow: none;
 }
 a:hover {
     color: #f4cdb7; /* keep */
@@ -195,7 +196,6 @@ a:hover {
           "footer footer";
 
     }
-
 
 
 #tagline {
